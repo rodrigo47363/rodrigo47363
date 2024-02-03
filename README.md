@@ -4,7 +4,7 @@
 Soy Rodrigo, un apasionado profesional de la tecnología con experiencia en diversas áreas de la informática. Aquí puedes conocer más sobre mi experiencia y habilidades.
 
 ## 💼 Experiencia y Proyectos Destacados
-A lo largo de mi carrera, he liderado proyectos que abarcan desde el diseño y soporte de redes hasta la implementación de soluciones avanzadas de seguridad. Explora algunos de mis proyectos destacados aquí en GitHub.
+Explora algunos de mis proyectos destacados aquí en GitHub.
 
 ## 🚀 Certificaciones CCNA
 
@@ -35,8 +35,7 @@ Ambas certificaciones emitidas por Cisco.
 
 ## Enlaces y Referidos
 
-- **Hack The Box:** [¡Regístrate aquí!](https://referral.hackthebox.com/XXXXX)
-- **TryHackMe:** [¡Regístrate aquí en TryHackMe!](https://tryhackme.com/signup?referrer=XXXXX)
+)
 
 ## Donaciones
 
@@ -46,8 +45,7 @@ Si deseas apoyarme, puedes hacer una [donación a través de mi cuenta de PayPal
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/ )
 - [Twitter](enlace_a_tu_perfil_de_Twitter)
-- [Hack The Box](enlace_a_tu_perfil_de_Hack_The_Box)
-- [TryHackMe](enlace_a_tu_perfil_de_TryHackMe)
+
 
 ## Contacto
 ¡Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje! Si deseas saber más o estás interesado en trabajar conmigo, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/).
