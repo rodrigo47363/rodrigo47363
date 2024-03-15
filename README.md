@@ -45,6 +45,7 @@ Si deseas apoyarme, puedes hacer una [donación a través de mi cuenta de PayPal
 
 - [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/ )
 - [Twitter](enlace_a_tu_perfil_de_Twitter)
+- [Web](https://rodrigo47363.github.io/)
 
 
 ## Contacto
