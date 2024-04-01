@@ -35,7 +35,9 @@ Ambas certificaciones emitidas por Cisco.
 
 ## Enlaces y Referidos
 
-)
+## Hack The Box referral link
+
+Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mz7ZtlJ)
 
 ## Donaciones
 
