@@ -20,23 +20,23 @@ Ambas certificaciones emitidas por Cisco.
 
 ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-<!-- Agrega más herramientas y lenguajes aquí -->
+![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+
 
 ## Estadísticas de los Lenguajes más Utilizados
 
-![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=dark)
+![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=dark)
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&count_private=true&hide=stars&theme=dark)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&count_private=true&hide=stars&theme=dark)
 
 ## Racha en GitHub
-![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=tu_usuario&theme=dark)
+![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo47363&theme=dark)
 
 ## Enlaces y Referidos
 
-## Hack The Box referral link
-
+### Hack The Box
 Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mz7ZtlJ)
 
 ## Donaciones
@@ -45,10 +45,9 @@ Si deseas apoyarme, puedes hacer una [donación a través de mi cuenta de PayPal
 
 ## Redes Sociales y Plataformas de Desarrollo
 
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/ )
-- [Twitter](enlace_a_tu_perfil_de_Twitter)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/)
+- [Twitter](https://twitter.com/tu_usuario)
 - [Web](https://rodrigo47363.github.io/)
-
 
 ## Contacto
 ¡Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje! Si deseas saber más o estás interesado en trabajar conmigo, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/).
