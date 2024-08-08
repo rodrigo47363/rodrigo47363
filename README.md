@@ -33,21 +33,11 @@ Certificaciones emitidas por Cisco que avalan mi conocimiento en redes y automat
 ### Racha en GitHub
 ![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo47363&theme=dark)
 
-## 🌐 Enlaces y Referidos
+## 🌐 Redes Sociales
 
-### Hack The Box
-¿Interesado en ciberseguridad? Únete a Hack The Box a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mz7ZtlJ)
-
-## 💖 Donaciones
-
-Si deseas apoyar mi trabajo y proyectos, puedes hacer una [donación a través de mi cuenta de PayPal](https://paypal.me/tu_usuario).
-
-## 📱 Redes Sociales y Plataformas de Desarrollo
-
-- [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/)
-- [Twitter](https://twitter.com/Rodrigo47363)
-- [YouTube](https://youtube.com/@Rodrigo-47363?sub_confirmation=1)
-- [Sitio Web](https://rodrigo47363.github.io/)
+- [YouTube](https://www.youtube.com/@Rodrigo-47363?sub_confirmation=1) ![Suscriptores de YouTube](https://img.shields.io/youtube/channel/subscribers/UC9sjERLgkeIbbOwLHeah0Aw?style=social)
+- [LinkedIn](https://linkedin.com/in/rodrigo-v-695728215) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20V-blue?style=social)
+- [GitHub](https://github.com/rodrigo47363) ![Seguidores de GitHub](https://img.shields.io/github/followers/rodrigo47363?style=social)
 
 ## 📩 Contacto
 ¡Siempre estoy abierto a nuevas oportunidades de colaboración y aprendizaje! Si deseas saber más o estás interesado en trabajar conmigo, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/).
