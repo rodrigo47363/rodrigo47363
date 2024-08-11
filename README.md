@@ -1,10 +1,10 @@
 # Bienvenido a mi Perfil 👋
 
 ## Sobre Mí
-Soy Rodrigo, un apasionado profesional de la tecnología con interés en el hacking y pentesting. Aquí puedes conocer más sobre mi experiencia, habilidades y proyectos destacados.
+Soy Rodrigo, un apasionado profesional de la tecnología especializado en **hacking** y **pentesting**. Mi objetivo es explorar y dominar el mundo de la ciberseguridad. Aquí puedes conocer más sobre mi experiencia, habilidades y proyectos destacados.
 
 ## 💼 Experiencia y Proyectos Destacados
-Explora algunos de mis proyectos más relevantes en [GitHub](https://github.com/rodrigo47363). Cada proyecto refleja mi pasión por la tecnología y mi compromiso con la calidad.
+Explora algunos de mis proyectos más relevantes en [GitHub](https://github.com/rodrigo47363). Cada proyecto refleja mi pasión por la tecnología y mi compromiso con la calidad y la innovación.
 
 ## 🚀 Certificaciones
 
