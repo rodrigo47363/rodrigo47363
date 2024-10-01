@@ -2,20 +2,19 @@
 
 ## Sobre Mí
 
-Soy **Rodrigo**, un apasionado profesional en **ciberseguridad**, especializado en **hacking ético** y **pentesting**.  A lo largo de mi carrera he trabajado en diversos proyectos que me han permitido desarrollar mis habilidades técnicas y analíticas. Este espacio está diseñado para que conozcas más sobre mi experiencia, certificaciones, y proyectos que destacan mi pasión por la tecnología.
+Soy **Rodrigo**, un apasionado profesional en **ciberseguridad**, especializado en **hacking ético** y **pentesting**. A lo largo de mi carrera, he trabajado en diversos proyectos que me han permitido desarrollar mis habilidades técnicas y analíticas. Este espacio está diseñado para que conozcas más sobre mi experiencia, certificaciones y proyectos que destacan mi pasión por la tecnología.
 
 ## 💼 Experiencia y Proyectos Destacados
 
 Explora algunos de mis proyectos más relevantes en [GitHub](https://github.com/rodrigo47363). Aquí podrás ver cómo he aplicado mis conocimientos en entornos prácticos y reales, desarrollando soluciones innovadoras en el ámbito de la ciberseguridad y el hacking ético:
 
-- **[NekoFi.sh](https://github.com/rodrigo47363/NekoFI)**: Un script de Bash diseñado para hacking WiFi, que automatiza procesos esenciales y garantiza una experiencia más fluida en auditorías de redes. Facilita la detección automática de interfaces de red y gestiona los modos de red (monitor/managed), mejorando la eficiencia en auditorías de seguridad.
+- **[NekoFi.sh](https://github.com/rodrigo47363/NekoFI)**: Un script de Bash para hacking WiFi que automatiza procesos esenciales y mejora la experiencia en auditorías de redes. Facilita la detección automática de interfaces de red y gestiona los modos de red (monitor/managed).
 
-- **OSIdentifier.py**: Un script para identificar sistemas operativos a través del valor TTL, ideal para el reconocimiento pasivo en pruebas de penetración. Ayuda a identificar el sistema operativo objetivo sin necesidad de interactuar directamente con él, maximizando la sigilosidad en pentesting.
-
+- **OSIdentifier.py**: Un script que identifica sistemas operativos a través del valor TTL, ideal para el reconocimiento pasivo en pruebas de penetración.
 
 ## 🚀 Certificaciones
 
-Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, se encuentran algunas de las certificaciones que avalan mi conocimiento en el campo de redes y ciberseguridad:
+Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, algunas de las certificaciones que avalan mi conocimiento en redes y ciberseguridad:
 
 ### CCNA: Switching, Routing, and Wireless Essentials
 
@@ -24,8 +23,6 @@ Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, s
 ### CCNA: Enterprise Networking, Security, and Automation
 
 ![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)
-
-Estas certificaciones emitidas por **Cisco** validan mi competencia en redes, automatización, y seguridad.
 
 ### ISC2 Candidate
 
@@ -36,9 +33,6 @@ Estas certificaciones emitidas por **Cisco** validan mi competencia en redes, au
 - **Bash** ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 - **Python** ![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 - **Linux** ![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-- **Wireshark** ![wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg)
-
-Mi principal enfoque se encuentra en el desarrollo de scripts de automatización y pruebas de penetración, utilizando herramientas clave como **Bash** y **Python** sobre entornos **Linux**.
 
 ## 📊 Estadísticas
 
@@ -49,6 +43,14 @@ Mi principal enfoque se encuentra en el desarrollo de scripts de automatización
 ### Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&count_private=true&hide=stars&theme=dark)
+
+##  Intereses
+
+### 💻 Sistemas Operativos
+
+- **[Parrot OS](https://www.parrotsec.org/)**: Un sistema operativo basado en Debian, enfocado en seguridad, privacidad y desarrollo. Me apasiona explorar sus diversas herramientas de ciberseguridad y análisis forense.
+  
+- **[Kali Linux](https://www.kali.org/)**: La distribución más reconocida para pruebas de penetración, que me permite desarrollar y afinar mis habilidades en hacking ético.
 
 ### Racha en GitHub
 
@@ -69,10 +71,4 @@ Mi principal enfoque se encuentra en el desarrollo de scripts de automatización
 
 ## 🙏 Agradecimientos
 
-Gracias por visitar mi perfil y por tu interés en mis proyectos. Estoy emocionado por lo que el futuro nos depara en el mundo de la tecnología y la ciberseguridad.
-
-¡Construyamos algo increíble juntos! 🚀
-
----
-
-¿Qué te parece esta versión? He mejorado la presentación y agregado más detalles sobre tus proyectos y herramientas.
+Gracias por visitar mi perfil y por tu interés en mis proyectos. Estoy emocionado por lo que el futuro nos depara en el mundo de la tecnología y la ciberseguridad. ¡Construyamos algo increíble juntos! 🚀
