@@ -46,12 +46,8 @@ Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, a
 
 ##  Intereses
 
-- <a href="https://www.parrotsec.org/" target="_blank">**Parrot OS**</a>: Un sistema operativo basado en Debian, enfocado en seguridad, privacidad y desarrollo. Me apasiona explorar sus diversas herramientas de ciberseguridad y análisis forense.
-  
-- <a href="https://www.kali.org/" target="_blank">**Kali Linux**</a>: La distribución más reconocida para pruebas de penetración, que me permite desarrollar y afinar mis habilidades en hacking ético.
-
-
-### Racha en GitHub
+- <a href="https://www.parrotsec.org/" target="_blank">**Parrot OS**</a>: 
+- <a href="https://www.kali.org/" target="_blank">**Kali Linux**</a>: 
 
 ![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo47363&theme=dark)
 
