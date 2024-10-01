@@ -96,8 +96,9 @@ También puedes unirte a TryHackMe a través de mi enlace de referido: [¡Regís
 
 Si deseas apoyarme, puedes hacer una [donación a través de mi dirección de BTC](bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y).
 
-- **Solana**: ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac
-- **Ethereum**: 0xB75bC57C54FCBFF139EBF981A596B019C537d018
+- **Solana (Phantom)**: [ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac](https://solscan.io/address/ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac)
+- **Ethereum**: [0xB75bC57C54FCBFF139EBF981A596B019C537d018](https://etherscan.io/address/0xB75bC57C54FCBFF139EBF981A596B019C537d018)
+
 
 ## 📩 Contacto
 
