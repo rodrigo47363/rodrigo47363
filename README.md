@@ -111,8 +111,3 @@ bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y
 ## 🙏 Agradecimientos
 
 Gracias por visitar mi perfil y por tu interés en mis proyectos. Estoy emocionado por lo que el futuro nos depara en el mundo de la tecnología y la ciberseguridad. ¡Construyamos algo increíble juntos! 🚀
-
-------------------< Happy Hacking! >------------------
-  //\_/\\
- ( o.o )
-  >  <
