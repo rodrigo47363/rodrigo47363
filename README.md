@@ -86,7 +86,7 @@ Conéctate conmigo en mis plataformas para estar al tanto de mis proyectos y con
 
 ## Hack The Box Referral Link
 
-Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mzwJfOf)
+Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mz7ZtlJ)
 
 ## TryHackMe Referral Link
 
