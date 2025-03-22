@@ -88,23 +88,30 @@ Conéctate conmigo en mis plataformas para estar al tanto de mis proyectos y con
 
 Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mz7ZtlJ)
 
+---
+
 ## TryHackMe Referral Link
 
 También puedes unirte a TryHackMe a través de mi enlace de referido: [¡Regístrate aquí en TryHackMe!](https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b)
+
+---
 
 ## Donation Link
 
 Si deseas apoyarme, puedes hacer una [donación a través de mi dirección de BTC](bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y).
 
-bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y
-
+- **Bitcoin (BTC)**: `bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y`
 - **Solana (Phantom)**: [ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac](https://solscan.io/address/ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac)
 - **Ethereum**: [0xB75bC57C54FCBFF139EBF981A596B019C537d018](https://etherscan.io/address/0xB75bC57C54FCBFF139EBF981A596B019C537d018)
 
+---
 
 ## 📩 Contacto
 
-¡Estoy siempre abierto a nuevas oportunidades! Si te interesa colaborar en proyectos de ciberseguridad o necesitas asesoría en pentesting, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/) o enviando un correo a [rodrigovil@proton.me](mailto:rodrigovil@proton.me).
+¡Estoy siempre abierto a nuevas oportunidades! Si te interesa colaborar en proyectos de ciberseguridad o necesitas asesoría en pentesting, no dudes en contactarme a través de:
+
+- **[LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/)**
+- **Correo electrónico**: [rodrigovil@proton.me](mailto:rodrigovil@proton.me)
 
 ---
 
