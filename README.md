@@ -56,8 +56,8 @@ Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, a
 
 ## 🎯 Intereses
 
-- <a href="https://www.parrotsec.org/" target="_blank">**Parrot OS**</a>: Un sistema operativo basado en Debian orientado a la seguridad.
-- <a href="https://www.kali.org/" target="_blank">**Kali Linux**</a>: La distribución más popular para pruebas de penetración.
+- **[Parrot OS](https://www.parrotsec.org/)**: Un sistema operativo basado en Debian orientado a la seguridad.
+- **[Kali Linux](https://www.kali.org/)**: La distribución más popular para pruebas de penetración.
 
 ![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo47363&theme=dark)
 
