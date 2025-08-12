@@ -5,14 +5,63 @@
 Soy **Rodrigo**, un apasionado profesional en **ciberseguridad**, especializado en **hacking ético** y **pentesting**. A lo largo de mi carrera, he trabajado en diversos proyectos que me han permitido desarrollar mis habilidades técnicas y analíticas. Este espacio está diseñado para que conozcas más sobre mi experiencia, certificaciones y proyectos que destacan mi pasión por la tecnología.
 
 ---
+# 🚀 Proyectos Destacados
 
-## 💼 Experiencia y Proyectos Destacados
+Explora mis principales contribuciones en seguridad ofensiva y automatización:
 
-Explora algunos de mis proyectos más relevantes en [GitHub](https://github.com/rodrigo47363). Aquí podrás ver cómo he aplicado mis conocimientos en entornos prácticos y reales, desarrollando soluciones innovadoras en el ámbito de la ciberseguridad y el hacking ético:
+### 🔍 NekoFi.sh - Auditoría WiFi Automatizada  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/rodrigo47363/NekoFI)  
+```markdown
+✔️ Automatiza procesos de auditoría WiFi  
+✔️ Detección inteligente de interfaces de red  
+✔️ Gestión avanzada de modos monitor/managed  
+✔️ Integración con herramientas de pentesting (Aircrack-ng, Reaver)  
+```
+**Tecnologías**: ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-000000?logo=aircrack-ng&logoColor=white)
 
-- **[NekoFi.sh](https://github.com/rodrigo47363/NekoFI)**: Un script de Bash para hacking WiFi que automatiza procesos esenciales y mejora la experiencia en auditorías de redes. Facilita la detección automática de interfaces de red y gestiona los modos de red (monitor/managed).
+---
 
-- **[OSIdentifier.py](https://github.com/rodrigo47363/OSIdentifier)**: Un script que identifica sistemas operativos a través del valor TTL, ideal para el reconocimiento pasivo en pruebas de penetración.
+### 🖥️ OSIdentifier.py - Detección de SO por TTL  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github)](https://github.com/rodrigo47363/OSIdentifier)  
+```markdown
+🕵️‍♂️ Identificación pasiva de sistemas operativos  
+📊 Análisis de valores TTL para reconocimiento  
+🧩 Fácil integración con herramientas de seguridad  
+🔧 Configuración personalizable para entornos específicos  
+```
+**Tecnologías**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Scapy](https://img.shields.io/badge/-Scapy-FFD43B?logo=python&logoColor=blue) ![Networking](https://img.shields.io/badge/-Networking-00599C?logo=cisco&logoColor=white)
+
+---
+
+## 💡 Características Clave de Mis Proyectos
+
+| Ventaja | NekoFi.sh | OSIdentifier.py |
+|---------|-----------|----------------|
+| **Automatización** | ✅ Completa | ✅ Parcial |
+| **Reconocimiento** | ⚙️ Redes WiFi | 🖥️ Sistemas Operativos |
+| **Integración** | 🛠️ Herramientas pentesting | 🔌 APIs de seguridad |
+| **Eficiencia** | ⏱️ Reduce tiempo auditorías | 🚀 Agiliza fase reconocimiento |
+| **Personalización** | ⚙️ Configurable | 🧩 Adaptable |
+
+> "La automatización en seguridad no reemplaza al experto, pero multiplica su eficiencia"  
+> Todos mis proyectos están diseñados para **potenciar las capacidades del profesional** de ciberseguridad, no para sustituirlas.
+
+---
+
+## 🔄 Proyectos en Desarrollo
+
+Actualmente trabajando en nuevas funcionalidades para estas herramientas:
+
+- **NekoFi.sh v2.0**:  
+  🔄 Soporte para WPA3  
+  🖥️ Interfaz gráfica opcional  
+  📊 Generación automática de reportes  
+
+- **OSIdentifier.py**:  
+  🌐 Detección de dispositivos IoT  
+  📡 Integración con Shodan API  
+
+[![Sigue el Desarrollo](https://img.shields.io/badge/Sigue_el_Desarrollo-Explorar_Proyectos-22D3EE?style=for-the-badge)](https://github.com/rodrigo47363)
 
 ---
 
