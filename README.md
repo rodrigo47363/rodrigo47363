@@ -91,32 +91,30 @@ Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, a
 
 ---
 
-## 📊 Estadísticas
-
-### Lenguajes Más Utilizados
-
-![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=dark)
-
-### Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&count_private=true&hide=stars&theme=dark)
-
----
-
-## 🎯 Intereses
-
-- **[Parrot OS](https://www.parrotsec.org/)**: Un sistema operativo basado en Debian orientado a la seguridad.
-- **[Kali Linux](https://www.kali.org/)**: La distribución más popular para pruebas de penetración.
-
-## 📈 Estadísticas de GitHub
+## 📈 Rendimiento y Contribuciones
 
 <div align="center">
 
-[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff)](https://github.com/rodrigo47363)
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff)](https://github.com/rodrigo47363)
+[![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff&custom_title=Estadísticas+de+Actividad)](https://github.com/rodrigo47363)
+
+[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff&custom_title=Lenguajes+Más+Utilizados)](https://github.com/rodrigo47363)
+
 [![Racha de Contribuciones](https://streak-stats.demolab.com/?user=rodrigo47363&theme=dark&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=A9A9A9)](https://github.com/rodrigo47363)
+
 </div>
 
+---
+
+## 🛠️ Herramientas y Plataformas Favoritas
+
+<div align="center">
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Parrot OS](https://img.shields.io/badge/Parrot_OS-4DBCE9?style=for-the-badge&logo=parrotos&logoColor=white)](https://www.parrotsec.org/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2072477)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rodrigo.47363)
+
+</div>
 ## 🌐 Conecta Conmigo
 
 <div align="center">
