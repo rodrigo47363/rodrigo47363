@@ -59,62 +59,45 @@ Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, a
 - **[Parrot OS](https://www.parrotsec.org/)**: Un sistema operativo basado en Debian orientado a la seguridad.
 - **[Kali Linux](https://www.kali.org/)**: La distribución más popular para pruebas de penetración.
 
-![Racha en GitHub](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo47363&theme=dark)
+## 📈 Estadísticas de GitHub
 
----
+<div align="center">
 
-## 🌐 Redes Sociales
+[![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=ffffff)](https://github.com/rodrigo47363)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=22D3EE&text_color=ffffff)](https://github.com/rodrigo47363)
+[![Racha de Contribuciones](https://streak-stats.demolab.com/?user=rodrigo47363&theme=dark&hide_border=true&background=0D1117&stroke=22D3EE&ring=22D3EE&fire=22D3EE&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=A9A9A9)](https://github.com/rodrigo47363)
+</div>
 
-Conéctate conmigo en mis plataformas para estar al tanto de mis proyectos y contenido en ciberseguridad:
+## 🌐 Conecta Conmigo
 
-- **[YouTube](https://www.youtube.com/@Rodrigo-47363?sub_confirmation=1)**  
-  ¡Suscríbete para acceder a tutoriales de hacking ético y ciberseguridad!  
-  ![Suscriptores de YouTube](https://img.shields.io/youtube/channel/subscribers/UC9sjERLgkeIbbOwLHeah0Aw?style=social)
+<div align="center">
 
-- **[LinkedIn](https://linkedin.com/in/rodrigo-v-695728215)**  
-  Conéctate conmigo en LinkedIn para oportunidades profesionales y networking.  
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo%20V-blue?style=social)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Rodrigo-47363?sub_confirmation=1)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-v-695728215)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2072477)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rodrigo.47363)
+[![ProtonMail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:rodrigovil@proton.me)
 
-- **[GitHub](https://github.com/rodrigo47363)**  
-  Explora mis proyectos de código abierto y contribuciones en GitHub.  
-  ![Seguidores de GitHub](https://img.shields.io/github/followers/rodrigo47363?style=social)
+</div>
 
-- **[Hack The Box](https://app.hackthebox.com/profile/2072477)**  
-  Sigue mi progreso en este emocionante entorno de pruebas de penetración. ¡Desafiémonos juntos!
+## 🔗 Enlaces de Referido
 
----
+[![HackTheBox Referral](https://img.shields.io/badge/Únete_a_HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://referral.hackthebox.com/mz7ZtlJ)
+[![TryHackMe Referral](https://img.shields.io/badge/Únete_a_TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b)
 
-## Hack The Box Referral Link
+## 💖 Apoya Mi Trabajo
 
-Si quieres unirte a Hack The Box, puedes registrarte a través de mi enlace de referido: [¡Regístrate aquí!](https://referral.hackthebox.com/mz7ZtlJ)
+<div align="center">
+  
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y)
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://etherscan.io/address/0xB75bC57C54FCBFF139EBF981A596B019C537d018)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solscan.io/address/ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac)
 
----
+</div>
 
-## TryHackMe Referral Link
+```crypto
+BTC:  bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y
+ETH:  0xB75bC57C54FCBFF139EBF981A596B019C537d018
+SOL:  ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac
+```
 
-También puedes unirte a TryHackMe a través de mi enlace de referido: [¡Regístrate aquí en TryHackMe!](https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b)
-
----
-
-## Donation Link
-
-Si deseas apoyarme, puedes hacer una [donación a través de mi dirección de BTC](bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y).
-
-- **Bitcoin (BTC)**: `bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y`
-- **Solana (Phantom)**: [ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac](https://solscan.io/address/ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac)
-- **Ethereum**: [0xB75bC57C54FCBFF139EBF981A596B019C537d018](https://etherscan.io/address/0xB75bC57C54FCBFF139EBF981A596B019C537d018)
-
----
-
-## 📩 Contacto
-
-¡Estoy siempre abierto a nuevas oportunidades! Si te interesa colaborar en proyectos de ciberseguridad o necesitas asesoría en pentesting, no dudes en contactarme a través de:
-
-- **[LinkedIn](https://www.linkedin.com/in/rodrigo-v-695728215/)**
-- **Correo electrónico**: [rodrigovil@proton.me](mailto:rodrigovil@proton.me)
-
----
-
-## 🙏 Agradecimientos
-
-Gracias por visitar mi perfil y por tu interés en mis proyectos. Estoy emocionado por lo que el futuro nos depara en el mundo de la tecnología y la ciberseguridad. ¡Construyamos algo increíble juntos! 🚀
