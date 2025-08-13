@@ -115,7 +115,7 @@ Estoy constantemente aprendiendo y mejorando mis habilidades. A continuación, a
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rodrigo.47363)
 
 </div>
-## 🌐 Conecta Conmigo
+ 🌐 Conecta Conmigo
 
 <div align="center">
 
