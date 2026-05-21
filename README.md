@@ -96,23 +96,34 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Análisis de Actividad y Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
-## 🌐 Perfiles CTF y Plataformas
+## 🏴‍☠️ Entrenamiento Continuo y CTFs
 
-*Únete mediante mis referidos:* [HackTheBox](https://referral.hackthebox.com/mz7ZtlJ) | [TryHackMe](https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b)
+La práctica constante y la validación de habilidades en entornos controlados es vital en seguridad ofensiva. Sigue mi progreso o únete a las plataformas donde entreno tácticas de Red Team:
 
----
-
-## 📜 Disclaimer y Contribuciones
-
-* **Reglas de Opción (ROEs) y Ética:** Todo el contenido, código y pruebas de concepto (PoCs) en mis repositorios están orientados **exclusivamente a investigación y pruebas en entornos autorizados**.
-* **Pull Requests:** Para contribuir, realiza un Fork, crea tu rama y envía un PR con una descripción técnica exhaustiva. Si alteras el comportamiento de red, es obligatorio incluir un `safety-check` en el código.
-
-*  `bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y`
-*  `0xB75bC57C54FCBFF139EBF981A596B019C537d018`
-*  `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac`
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://referral.hackthebox.com/mz7ZtlJ)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b)
 
 ---
+
+## 📜 Rules of Engagement (RoE) y Contribuciones
+
+* **Aviso Legal y Ética:** Todo el código, frameworks y pruebas de concepto (PoCs) desarrollados en mis repositorios están diseñados **estrictamente para auditorías autorizadas, investigación defensiva y entornos de laboratorio**. El uso indebido de estas herramientas para atacar infraestructuras sin consentimiento explícito es responsabilidad exclusiva del usuario final.
+* **Política de Pull Requests (PRs):** Fomento la colaboración técnica enfocada en la optimización y el *stealth*. Para contribuir: realiza un *fork*, trabaja en una rama descriptiva y envía un PR con documentación técnica detallada del cambio. **Requisito estricto:** Cualquier modificación que altere el comportamiento de red o modifique payloads debe incluir una función de `safety-check`.
+
+### ☕ Apoyo al Desarrollo Abierto
+
+Si mis herramientas de automatización o investigaciones han aportado valor a tus auditorías o procesos de aprendizaje, considera respaldar el desarrollo continuo:
+
+```yaml
+BTC: bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y
+ETH: 0xB75bC57C54FCBFF139EBF981A596B019C537d018
+SOL: ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac
