@@ -96,12 +96,13 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 
 ---
 
-## 📊 Análisis de Actividad y Contribuciones
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="48%" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rodrigo47363&theme=tokyonight)
 
 ---
 
