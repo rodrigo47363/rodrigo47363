@@ -1,4 +1,3 @@
-
 # 🛡️ Rodrigo — Offensive Security Specialist
 
 <div align="center">
@@ -17,26 +16,31 @@
 
 Soy un practicante de seguridad ofensiva especializado en **penetration testing**, **investigación de seguridad inalámbrica** y **bug bounty**. Me enfoco en auditorías con metodología reproducible, automatización de tareas operativas y técnicas de enumeración silenciosa que maximizan hallazgos con bajo ruido en la red.
 
-> **Filosofía táctica:** *Impacto real > Teoría.* Automatizo las tareas que no agregan valor analítico para concentrar el esfuerzo en la explotación, la validación manual y el reporte claro.
+> **Filosofía táctica:** *Impacto real > Teoría.* Automatizo las tareas de reconocimiento iterativo para concentrar el esfuerzo analítico en la explotación de vulnerabilidades complejas, la validación manual exhaustiva y la redacción de reportes técnicos claros.
 
 ---
 
-## 🔧 Arsenal Técnico
+## 🔧 Arsenal y Entorno Operativo
 
-**Lenguajes y Scripting** ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**Lenguajes y Scripting**  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Herramientas de Auditoría** ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+**Herramientas de Auditoría**  
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-000000?style=flat-square&logo=aircrack-ng&logoColor=white)
 
-**Entornos y Sistemas Operativos** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+**Entorno de Trabajo**  
+Mi infraestructura de auditoría está diseñada para la velocidad y el control absoluto mediante teclado, minimizando la latencia entre el pensamiento y la ejecución:  
 ![Parrot OS](https://img.shields.io/badge/-Parrot_OS-4DBCE9?style=flat-square&logo=parrotos&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![bspwm](https://img.shields.io/badge/-bspwm-333333?style=flat-square&logo=windowsterminal&logoColor=white)
+![sxhkd](https://img.shields.io/badge/-sxhkd-555555?style=flat-square)
 
 ---
 
@@ -46,80 +50,69 @@ Soy un practicante de seguridad ofensiva especializado en **penetration testing*
 |---------|---------------------------|
 | **Web Application Security** | XSS (Reflejado, Persistente, DOM/Template), SQLi (Blind/2nd Order), Auth Bypass (IDOR, Token Reuse), CSRF. |
 | **Network & Wireless** | PT Red Interna/Externa, Auditorías WPA/WPA2/WPS, AP Rogue, Passive OS Fingerprinting. |
-| **Metodología** | Reconocimiento pasivo, Enumeración dirigida, Explotación controlada, Evasión de ruido. |
+| **Metodología Ofensiva** | Reconocimiento pasivo (OSINT), Enumeración dirigida, Explotación controlada, Evasión de ruido y escalada de privilegios. |
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### [NekoFi.sh](https://github.com/rodrigo47363/NekoFI) — Automated WiFi Security Framework
-Framework modular en Bash para auditorías WiFi en entornos reales. Automatiza la detección de interfaces, orquestación de modos monitor/managed, y asistentes para ataques WPS.
-* **Enfoque:** Reproducibilidad y reducción de errores operativos (OpSec).
-* **Tech:** Bash, Aircrack-ng Suite, `iw`/`ip`.
+### 📡 [NekoFi.sh](https://github.com/rodrigo47363/NekoFI) — Automated WiFi Security Framework
+Framework modular en Bash para auditorías WiFi en entornos reales. Automatiza la detección de interfaces, la orquestación de modos monitor/managed y despliega asistentes para ataques WPS.
+
+* **Enfoque:** Reproducibilidad técnica y reducción de errores operativos (OpSec).
+* **Parámetros clave:** Implementa comprobaciones de dependencias e inyección de paquetes sin intervención manual continua.
 
 ```bash
-# Instalación y uso rápido
+# Instalación y uso
 git clone [https://github.com/rodrigo47363/NekoFI.git](https://github.com/rodrigo47363/NekoFI.git) && cd NekoFI
 chmod +x nekofi.sh
-sudo ./nekofi.sh --help
+sudo ./nekofi.sh --auto
+
+# Output esperado:
+# [*] Iniciando NekoFi.sh...
+# [+] Interfaz wlan0 detectada.
+# [+] Levantando interfaz en modo monitor (wlan0mon)...
+# [*] Escaneando redes objetivo cercanas (Ctrl+C para detener)...
+
 ```
 
-### [OSIdentifier.py](https://github.com/rodrigo47363/OSIdentifier) — Passive OS Fingerprinting
-Herramienta en Python que infiere sistemas operativos remotos mediante análisis heurístico de valores TTL (ICMP) sin generar tráfico activo ruidoso.
-* **Enfoque:** Reconocimiento sigiloso y normalización de datos.
-* **Tech:** Python 3, Scapy.
+### 🕵️ [OSIdentifier.py](https://github.com/rodrigo47363/OSIdentifier) — Passive OS Fingerprinting
+
+Herramienta en Python que infiere sistemas operativos remotos mediante análisis heurístico de valores TTL (ICMP) sin generar tráfico activo ruidoso en la red.
+
+* **Enfoque:** Reconocimiento sigiloso (Stealth) y normalización de datos capturados.
+* **Stack:** Python 3, `scapy` para la disección de paquetes a bajo nivel.
 
 ```bash
 # Ejecución pasiva en interfaz específica
 sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
+
+# Output esperado:
+# [*] Escuchando tráfico en wlp3s0 durante 60 segundos...
+# [+] Host: 192.168.1.15 | TTL: 64  | OS Inferido: Linux/Unix
+# [+] Host: 192.168.1.45 | TTL: 128 | OS Inferido: Windows
+
 ```
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-<a href="https://github.com/rodrigo47363">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</a>
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigo47363&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
 ---
 
 ## 🌐 Perfiles CTF y Plataformas
 
-<div align="center">
-
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2072477)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Rodrigo.47363)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Platform-F26522?style=for-the-badge&logo=bugcrowd&logoColor=white)](#)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Platform-FFFFFF?style=for-the-badge&logo=hackerone&logoColor=black)](#)
-
 *Únete mediante mis referidos:* [HackTheBox](https://referral.hackthebox.com/mz7ZtlJ) | [TryHackMe](https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b)
-
-</div>
 
 ---
 
 ## 📜 Disclaimer y Contribuciones
 
-* **Ética:** Todo el contenido, código y pruebas de concepto (PoCs) en mis repositorios están orientados exclusivamente a **investigación y pruebas autorizadas**.
-* **PRs:** Para contribuir, realiza un Fork, crea tu branch y envía un PR con descripción técnica. Si alteras el comportamiento de red, incluye un `safety-check` en el código.
+* **Reglas de Opción (ROEs) y Ética:** Todo el contenido, código y pruebas de concepto (PoCs) en mis repositorios están orientados **exclusivamente a investigación y pruebas en entornos autorizados**.
+* **Pull Requests:** Para contribuir, realiza un Fork, crea tu rama y envía un PR con una descripción técnica exhaustiva. Si alteras el comportamiento de red, es obligatorio incluir un `safety-check` en el código.
 
-<details>
-<summary><b>💝 Apoya mi investigación (Cripto)</b></summary>
-<br>
-Si mis herramientas te han sido útiles en auditorías o aprendizaje, puedes apoyar mi trabajo técnico:
+*  `bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y`
+*  `0xB75bC57C54FCBFF139EBF981A596B019C537d018`
+*  `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac`
 
-* **BTC:** `bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y`
-* **ETH:** `0xB75bC57C54FCBFF139EBF981A596B019C537d018`
-* **SOL:** `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac`
-</details>
-```
+---
