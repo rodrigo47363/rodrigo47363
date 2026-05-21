@@ -98,8 +98,6 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 
 ## 📊 Estadísticas de GitHub
 
-https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&theme=radical&include_all_commits=true
-
 ---
 
 ## 🌐 Perfiles CTF y Plataformas
