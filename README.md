@@ -76,7 +76,7 @@ Framework modular en Bash diseñado para la automatización de auditorías WiFi 
 
 ```bash
 # Despliegue rápido
-git clone [https://github.com/rodrigo47363/NekoFI.git](https://github.com/rodrigo47363/NekoFI.git) && cd NekoFI
+git clone https://github.com/rodrigo47363/NekoFI.git && cd NekoFI
 chmod +x nekofi.sh
 sudo ./nekofi.sh --auto
 
@@ -85,7 +85,6 @@ sudo ./nekofi.sh --auto
 # [+] Spoofeando dirección MAC física (wlan0) -> 00:11:22:33:44:55
 # [+] Interfaz wlan0 detectada. Aislando procesos conflictivos.
 # [+] Levantando interfaz en modo monitor (wlan0mon)...
-
 ```
 
 ### 🕵️ [OSIdentifier.py](https://github.com/rodrigo47363/OSIdentifier) — Passive OS Fingerprinting
@@ -102,18 +101,32 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 # Output esperado:
 # [+] Host: 192.168.1.15 | TTL: 64  | OS Inferido: Linux/Unix
 # [+] Host: 192.168.1.45 | TTL: 128 | OS Inferido: Windows
-
 ```
 
 ---
 
 ## 📊 Telemetría Operativa
 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Estadísticas de Rodrigo" height="195">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117" alt="Lenguajes Top" height="195">
+</div>
+<br>
+
 ## 🏴‍☠️ Entrenamiento Continuo y CTFs
 
 Mantener el filo táctico requiere práctica constante. Puedes seguir mi progresión en entornos de simulación y laboratorios de vulnerabilidades aquí:
 
----
+<div align="center">
+  <a href="https://app.hackthebox.com/profile/2072477">
+    <img src="https://www.hackthebox.eu/badge/image/2072477" alt="HackTheBox Rank">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/Rodrigo47363">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Rodrigo47363.png" alt="TryHackMe Badge">
+  </a>
+</div>
 
 ## 📜 Rules of Engagement (RoE) y Contribuciones
 
@@ -137,3 +150,4 @@ Si mis herramientas de automatización han optimizado tus flujos de auditoría o
 | ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white) | **SOL** | `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac` |
 
 </div>
+```
