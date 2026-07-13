@@ -71,7 +71,7 @@ Framework modular en Bash diseñado para la automatización de auditorías WiFi 
 
 ```bash
 # Despliegue rápido
-git clone [https://github.com/rodrigo47363/NekoFI.git](https://github.com/rodrigo47363/NekoFI.git) && cd NekoFI
+git clone https://github.com/rodrigo47363/NekoFI.git && cd NekoFI
 chmod +x nekofi.sh
 sudo ./nekofi.sh --auto
 
@@ -79,7 +79,6 @@ sudo ./nekofi.sh --auto
 # [*] Iniciando NekoFi.sh framework...
 # [+] Interfaz wlan0 detectada. Aislando procesos conflictivos.
 # [+] Levantando interfaz en modo monitor (wlan0mon)...
-
 ```
 
 ### 🕵️ [OSIdentifier.py](https://github.com/rodrigo47363/OSIdentifier) — Passive OS Fingerprinting
@@ -96,7 +95,6 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 # Output esperado:
 # [+] Host: 192.168.1.15 | TTL: 64  | OS Inferido: Linux/Unix
 # [+] Host: 192.168.1.45 | TTL: 128 | OS Inferido: Windows
-
 ```
 
 ---
@@ -104,16 +102,18 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 ## 📊 Telemetría Operativa (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Estadísticas de Rodrigo" height="195">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117" alt="Lenguajes Top" height="195">
+  <img src="https://github-stats-extended.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Estadísticas de Rodrigo" height="195">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117" alt="Lenguajes Top" height="195">
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rodrigo47363&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub">
+  <a href="https://wakatime.com/@rodrigo47363">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=rodrigo47363&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime Stats">
+  </a>
 </div>
-
 
 ## 🏴‍☠️ Entrenamiento Continuo y CTFs
 
@@ -148,3 +148,4 @@ Si mis herramientas de automatización han optimizado tus flujos de auditoría o
 | ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black) | **SOL** | `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac` |
 
 </div>
+```
