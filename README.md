@@ -148,4 +148,3 @@ Si mis herramientas de automatización han optimizado tus flujos de auditoría o
 | ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black) | **SOL** | `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac` |
 
 </div>
-```
