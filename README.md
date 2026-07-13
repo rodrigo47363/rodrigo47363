@@ -99,21 +99,14 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 
 ---
 
-## 📊 Telemetría Operativa (GitHub Stats)
+## 📊 Telemetría Operativa
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Estadísticas de Rodrigo" height="195">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117" alt="Lenguajes Top" height="195">
 </div>
-
 <br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rodrigo47363&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub">
-  <a href="https://wakatime.com/@rodrigo47363">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=rodrigo47363&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wakatime Stats">
-  </a>
-</div>
 
 ## 🏴‍☠️ Entrenamiento Continuo y CTFs
 
