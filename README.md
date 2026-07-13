@@ -22,26 +22,31 @@ Soy un especialista en seguridad ofensiva centrado en **penetration testing**, *
 
 ## 🔧 Arsenal y Entorno Operativo
 
-**Desarrollo y Automatización** ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**Desarrollo y Automatización** 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Reconocimiento y Explotación Web** ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+**Reconocimiento y Explotación Web** 
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
 ![FFUF](https://img.shields.io/badge/-FFUF-20232A?style=flat-square&logo=fuzzing&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/-SQLMap-1A1A1A?style=flat-square)
 
-**Active Directory, Cracking & Post-Explotación** ![Impacket](https://img.shields.io/badge/-Impacket-4B8BBE?style=flat-square)
-![CrackMapExec](https://img.shields.io/badge/-CrackMapExec-DC382D?style=flat-square)
+**Active Directory, Cracking & Post-Explotación** 
+![Impacket](https://img.shields.io/badge/-Impacket-4B8BBE?style=flat-square)
+![NetExec](https://img.shields.io/badge/-NetExec-DC382D?style=flat-square)
 ![Enum4Linux](https://img.shields.io/badge/-Enum4Linux-000000?style=flat-square)
 ![Hashcat](https://img.shields.io/badge/-Hashcat-333333?style=flat-square)
 ![JohnTheRipper](https://img.shields.io/badge/-John_The_Ripper-E34F26?style=flat-square)
 
-**Análisis Inalámbrico y de Red** ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+**Análisis Inalámbrico y de Red** 
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-000000?style=flat-square&logo=aircrack-ng&logoColor=white)
 
-**Infraestructura Táctica (Tiling & Low-Latency)** Mi entorno de auditoría está estrictamente diseñado para la velocidad y el control absoluto mediante teclado, minimizando la latencia entre la toma de decisiones y la ejecución:  
+**Infraestructura Táctica (Tiling & Low-Latency)** 
+Mi entorno de auditoría está estrictamente diseñado para la velocidad y el control absoluto mediante teclado, minimizando la latencia entre la toma de decisiones y la ejecución:  
 ![Parrot OS](https://img.shields.io/badge/-Parrot_OS-4DBCE9?style=flat-square&logo=parrotos&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
@@ -71,14 +76,16 @@ Framework modular en Bash diseñado para la automatización de auditorías WiFi 
 
 ```bash
 # Despliegue rápido
-git clone https://github.com/rodrigo47363/NekoFI.git && cd NekoFI
+git clone [https://github.com/rodrigo47363/NekoFI.git](https://github.com/rodrigo47363/NekoFI.git) && cd NekoFI
 chmod +x nekofi.sh
 sudo ./nekofi.sh --auto
 
 # Output esperado:
 # [*] Iniciando NekoFi.sh framework...
+# [+] Spoofeando dirección MAC física (wlan0) -> 00:11:22:33:44:55
 # [+] Interfaz wlan0 detectada. Aislando procesos conflictivos.
 # [+] Levantando interfaz en modo monitor (wlan0mon)...
+
 ```
 
 ### 🕵️ [OSIdentifier.py](https://github.com/rodrigo47363/OSIdentifier) — Passive OS Fingerprinting
@@ -95,33 +102,22 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 # Output esperado:
 # [+] Host: 192.168.1.15 | TTL: 64  | OS Inferido: Linux/Unix
 # [+] Host: 192.168.1.45 | TTL: 128 | OS Inferido: Windows
+
 ```
 
 ---
 
 ## 📊 Telemetría Operativa
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=rodrigo47363&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Estadísticas de Rodrigo" height="195">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrigo47363&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&bg_color=0D1117" alt="Lenguajes Top" height="195">
-</div>
-<br>
-
 ## 🏴‍☠️ Entrenamiento Continuo y CTFs
 
 Mantener el filo táctico requiere práctica constante. Puedes seguir mi progresión en entornos de simulación y laboratorios de vulnerabilidades aquí:
-
-<div align="center">
-  <a href="https://referral.hackthebox.com/mz7ZtlJ"><img src="https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox"></a>
-  <a href="https://tryhackme.com/signup?referrer=64f0d7665fde58f3ec71379b"><img src="https://img.shields.io/badge/-TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-</div>
 
 ---
 
 ## 📜 Rules of Engagement (RoE) y Contribuciones
 
-> **⚠️ Aviso Legal y Ética:**  
+> **⚠️ Aviso Legal y Ética:**
 > Todo el código, frameworks y pruebas de concepto (PoCs) alojados en mi perfil están desarrollados **estrictamente para auditorías autorizadas, operaciones de Red Teaming y entornos de laboratorio**. El uso indebido de estas herramientas fuera del marco legal y ético aplicable es responsabilidad exclusiva del operador final.
 
 * **Política de PRs:** Fomento la colaboración técnica orientada al *stealth* y la optimización operativa. Si deseas contribuir: realiza un *fork*, trabaja en una rama descriptiva y documenta el impacto de red de tus cambios. Cualquier modificación que altere payloads debe integrar obligatoriamente validaciones de seguridad (`safety-checks`).
@@ -130,7 +126,7 @@ Mantener el filo táctico requiere práctica constante. Puedes seguir mi progres
 
 ### ⚡ Apoyo a la Investigación Operativa
 
-Si mis herramientas de automatización han optimizado tus flujos de auditoría o te han servido de referencia técnica, considera respaldar el desarrollo continuo y mi estrategia de acumulación (**HODL**):
+Si mis herramientas de automatización han optimizado tus flujos de auditoría o te han servido de referencia técnica, considera respaldar el desarrollo continuo y mi estrategia de acumulación a largo plazo:
 
 <div align="center">
 
@@ -138,6 +134,6 @@ Si mis herramientas de automatización han optimizado tus flujos de auditoría o
 | :--- | :---: | :--- |
 | ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white) | **BTC** | `bc1qkzmpd0hry99qms7ef23vsyx9vt34pzzaslpp8y` |
 | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) | **ETH** | `0xB75bC57C54FCBFF139EBF981A596B019C537d018` |
-| ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=black) | **SOL** | `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac` |
+| ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white) | **SOL** | `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac` |
 
 </div>
