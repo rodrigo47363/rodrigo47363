@@ -22,30 +22,30 @@ Soy un especialista en seguridad ofensiva centrado en **penetration testing**, *
 
 ## 🔧 Arsenal y Entorno Operativo
 
-**Desarrollo y Automatización** 
+**Desarrollo y Automatización**  
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Reconocimiento y Explotación Web** 
+**Reconocimiento y Explotación Web**  
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
 ![FFUF](https://img.shields.io/badge/-FFUF-20232A?style=flat-square&logo=fuzzing&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/-SQLMap-1A1A1A?style=flat-square)
 
-**Active Directory, Cracking & Post-Explotación** 
+**Active Directory, Cracking & Post-Explotación**  
 ![Impacket](https://img.shields.io/badge/-Impacket-4B8BBE?style=flat-square)
 ![NetExec](https://img.shields.io/badge/-NetExec-DC382D?style=flat-square)
 ![Enum4Linux](https://img.shields.io/badge/-Enum4Linux-000000?style=flat-square)
 ![Hashcat](https://img.shields.io/badge/-Hashcat-333333?style=flat-square)
 ![JohnTheRipper](https://img.shields.io/badge/-John_The_Ripper-E34F26?style=flat-square)
 
-**Análisis Inalámbrico y de Red** 
+**Análisis Inalámbrico y de Red**  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-000000?style=flat-square&logo=aircrack-ng&logoColor=white)
 
-**Infraestructura Táctica (Tiling & Low-Latency)** 
+**Infraestructura Táctica (Tiling & Low-Latency)**  
 Mi entorno de auditoría está estrictamente diseñado para la velocidad y el control absoluto mediante teclado, minimizando la latencia entre la toma de decisiones y la ejecución:  
 ![Parrot OS](https://img.shields.io/badge/-Parrot_OS-4DBCE9?style=flat-square&logo=parrotos&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -58,7 +58,7 @@ Mi entorno de auditoría está estrictamente diseñado para la velocidad y el co
 ## 🎯 Dominio Técnico
 
 | Fase / Vector | Técnicas y Herramientas Destacadas |
-|---------|---------------------------|
+|---|---|
 | **Web Application Security** | XSS (Reflected/Stored/DOM), SQLi (Blind/Time-Based), Auth Bypass, IDOR, SSRF, CSRF. |
 | **Network & Wireless** | PT Red Interna/Externa, Auditorías WPA/WPA2/WPS, AP Rogue, Passive OS Fingerprinting. |
 | **Directorio Activo & Post-Explotación** | AS-REP Roasting, Kerberoasting, Pass-The-Hash, volcado de NTDS.dit, Escalada de Privilegios (Linux/Windows). |
@@ -119,18 +119,20 @@ sudo python3 OSIdentifier.py --interface wlp3s0 --capture-time 60
 Mantener el filo táctico requiere práctica constante. Puedes seguir mi progresión en entornos de simulación y laboratorios de vulnerabilidades aquí:
 
 <div align="center">
-  <a href="https://app.hackthebox.com/profile/2072477">
-    <img src="https://www.hackthebox.eu/badge/image/2072477" alt="HackTheBox Rank">
+  <a href="https://app.hackthebox.com/profile/2072477" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/2072477" alt="HackTheBox Rank">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/Rodrigo47363">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Rodrigo47363.png" alt="TryHackMe Badge">
+  <a href="https://tryhackme.com/p/RodrigoVil" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/RodrigoVil.png" alt="TryHackMe Badge">
   </a>
 </div>
 
+---
+
 ## 📜 Rules of Engagement (RoE) y Contribuciones
 
-> **⚠️ Aviso Legal y Ética:**
+> **⚠️ Aviso Legal y Ética:**  
 > Todo el código, frameworks y pruebas de concepto (PoCs) alojados en mi perfil están desarrollados **estrictamente para auditorías autorizadas, operaciones de Red Teaming y entornos de laboratorio**. El uso indebido de estas herramientas fuera del marco legal y ético aplicable es responsabilidad exclusiva del operador final.
 
 * **Política de PRs:** Fomento la colaboración técnica orientada al *stealth* y la optimización operativa. Si deseas contribuir: realiza un *fork*, trabaja en una rama descriptiva y documenta el impacto de red de tus cambios. Cualquier modificación que altere payloads debe integrar obligatoriamente validaciones de seguridad (`safety-checks`).
@@ -150,4 +152,3 @@ Si mis herramientas de automatización han optimizado tus flujos de auditoría o
 | ![Solana](https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white) | **SOL** | `ELekuGHcmZjhXrtHNqHuu8QmdCZr3oCWtTmu3QUQ5hac` |
 
 </div>
-```
